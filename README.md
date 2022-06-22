@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on customizing the WP Block Editor.
+- 🔭 I’m currently working on multiple WordPress products for LOCALiQ.
 - 🌱 I’m currently learning React.
-- 💬 Ask me about WordPress
+- 💬 Ask me about WordPress and I'll try to help.
 - 📫 How to reach me: morganestes.com
 - 😄 Pronouns: he/him
 
