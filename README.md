@@ -10,3 +10,5 @@ When I'm not writing code, I spend time with my family or on my ham radio ([W3PH
 
 ## Recent GitHub (public) activity
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#36](https://github.com/morganestes/uptime-monitor/issues/36) in [morganestes/uptime-monitor](https://github.com/morganestes/uptime-monitor)
+<!--END_SECTION:activity-->
