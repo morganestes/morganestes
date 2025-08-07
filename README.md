@@ -10,5 +10,5 @@ When I'm not writing code, I spend time with my family or on my ham radio ([W3PH
 
 ## Recent GitHub (public) activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](undefined) in [morganestes/wp-trac-log-parser-heroku](https://github.com/morganestes/wp-trac-log-parser-heroku)
+1. 💪 Opened PR [#33](https://github.com/morganestes/wp-trac-log-parser-heroku/pull/33) in [morganestes/wp-trac-log-parser-heroku](https://github.com/morganestes/wp-trac-log-parser-heroku)
 <!--END_SECTION:activity-->
