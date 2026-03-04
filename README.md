@@ -10,5 +10,5 @@ When I'm not writing code, I spend time with my family or on my ham radio ([W3PH
 
 ## Recent GitHub (public) activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.3.0](https://github.com/morganestes/terminus-defrost-plugin/releases/tag/2.3.0) in [morganestes/terminus-defrost-plugin](https://github.com/morganestes/terminus-defrost-plugin)
+1. ❗ Opened issue [#2788](https://github.com/pantheon-systems/terminus/issues/2788) in [pantheon-systems/terminus](https://github.com/pantheon-systems/terminus)
 <!--END_SECTION:activity-->
