@@ -10,5 +10,5 @@ When I'm not writing code, I spend time with my family or on my ham radio ([W3PH
 
 ## Recent GitHub (public) activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2788](https://github.com/pantheon-systems/terminus/issues/2788) in [pantheon-systems/terminus](https://github.com/pantheon-systems/terminus)
+1. ❗ Opened issue [#38](https://github.com/morganestes/uptime-monitor/issues/38) in [morganestes/uptime-monitor](https://github.com/morganestes/uptime-monitor)
 <!--END_SECTION:activity-->
