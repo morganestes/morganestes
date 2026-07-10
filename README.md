@@ -10,5 +10,5 @@ When I'm not writing code, I spend time with my family or on my ham radio ([W3PH
 
 ## Recent GitHub (public) activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10076](https://github.com/pantheon-systems/documentation/pull/10076) in [pantheon-systems/documentation](https://github.com/pantheon-systems/documentation)
+1. 💪 Opened PR [#2892](https://github.com/pantheon-systems/terminus/pull/2892) in [pantheon-systems/terminus](https://github.com/pantheon-systems/terminus)
 <!--END_SECTION:activity-->
